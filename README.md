@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Btech degree
 - 💞️ I’m looking to collaborate on coding project
 - 📫 How to reach me ...
-- 😄 Pronouns: 
+- 😄 Pronouns:  sshe/her
 - ⚡ Fun fact: ...
 
 <!---
