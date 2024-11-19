@@ -23,7 +23,7 @@
     </td>
     <td align="center">
       <a href="https://www.instagram.com/gayatriiii_._4/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="RAFIK SHAH">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fgayatriiii_._4%2F&subtitle=@gayatriiii_._4&size=square" alt="Gayatri Pardeshi">
       </a>
     </td>
     <td align="center">
