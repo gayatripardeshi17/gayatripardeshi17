@@ -52,8 +52,8 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
-
+Hello friends, I am Gayatri Pardeshi Currently pursuing B.Tech at NMIMS, Shirpur. I am a dedicated AIML student with a strong interest in artificial intelligence, machine learning, and data science.I am an aspiring Artificial Intelligence and Machine Learning specialist with a passion for using advanced technologies to solve real-world problems. I am currently studying AIML and working hard to learn more about deep learning, natural language processing, and computer vision.
+In my studies, I have worked on hands-on projects where I built and used machine learning models. I will also do data analysis and become good at programming in Python . I am very interested in the ethical side of AI and want to create innovations that help society.
 <h3 align="center">Git Stats</h3>
 <div align="center">
  <img src="https://streak-stats.demolab.com?user=gayatripardeshi17&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
