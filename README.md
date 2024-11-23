@@ -633,8 +633,8 @@ In my studies, I have worked on hands-on projects where I built and used machine
       </a>
     </td>
     <td align="center">
-  <a href="https://wa.me/917028352298" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7028352298&size=square" alt="India-+91-702-835-2298" style="margin: 10px;">
+  <a href="https://wa.me/917219770714" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7219770714&size=square" alt="India-+91-702-835-2298" style="margin: 10px;">
   </a>
 </td>
 
