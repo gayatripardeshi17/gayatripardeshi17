@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    Coder | Tech Enthusiast 
+    AIML Engineer | Tech Enthusiast 
 </p>
 
 <div align="center">
