@@ -18,7 +18,7 @@
   <tr>
    <td align="center">
       <a href="https://www.codechef.com/users/gayatyri176" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.codechef.com/users/gayatyri176/&subtitle=@Gayatri+Pardeshi&size=square" alt="GAYATRI PARDESHI">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.codechef.com/users/gayatyri176/&subtitle=gayatyri176&size=square" alt="GAYATRI PARDESHI">
       </a>
     </td>
  
